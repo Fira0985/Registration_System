@@ -56,5 +56,3 @@ Student information is stored in the `Database` file within the `system` directo
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Adjust the placeholders such as `your-username` and `your-repo` with your actual GitHub username and repository name. If there are additional details you would like to include, feel free to customize the README accordingly.
